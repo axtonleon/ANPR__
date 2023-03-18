@@ -1,0 +1,44 @@
+1309_left.  IN original
+31309_left.png  IN mask
+1301_right  IN original
+31301_right.png  IN mask
+2407_left.  IN original
+22407_left.png  IN mask
+283_right.  IN original
+36283_right.png  IN mask
+454_right.  IN original
+32454_right.png  IN mask
+5093_right  IN original
+15093_right.png  IN mask
+5032_left.  IN original
+35032_left.png  IN mask
+508_right.  IN original
+18508_right.png  IN mask
+5868_right  IN original
+15868_right.png  IN mask
+5450_left.  IN original
+15450_left.png  IN mask
+564_right.  IN original
+26564_right.png  IN mask
+658_right.  IN original
+33658_right.png  IN mask
+6564_right  IN original
+26564_right.png  IN mask
+6392_left.  IN original
+26392_left.png  IN mask
+837_right.  IN original
+39837_right.png  IN mask
+870_right.  IN original
+33870_right.png  IN mask
+8848_left.  IN original
+18848_left.png  IN mask
+945_right.  IN original
+20945_right.png  IN mask
+37945_right.png  IN mask
+9395_right  IN original
+19395_right.png  IN mask
+7906_left.  IN original
+27906_left.png  IN mask
+
+
+f = ["1309_left","1301_right","2407_left","283_right","454_right","5093_right","5032_left","508_right", "5868_right", "5450_left","564_right","658_right","6564_right","6392_left","837_right","870_right","8848_left", "945_right","9395_right","7906_left"]
