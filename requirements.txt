@@ -15,4 +15,6 @@ numpy==1.24.2
 imutils==0.5.4
 easyocr==1.4
 opencv-contrib-python==4.7.0.72
-skia-python==87.5 
+skia-python==87.5
+torchvision==0.15.1
+torch==2.0.0 
