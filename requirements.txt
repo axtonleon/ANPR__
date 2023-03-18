@@ -15,4 +15,3 @@ opencv-python==4.5.4.58
 numpy==1.21.3
 imutils==0.5.4
 easyocr==1.4
-Pillow==8.4.0
